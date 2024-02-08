@@ -2,6 +2,6 @@
 
 echo "Hello World !!";
 
-echo "first Php";
+echo "first php";
 
 ?>
