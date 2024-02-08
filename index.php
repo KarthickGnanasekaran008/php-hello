@@ -1,7 +1,7 @@
-<?php
+<?PHP
 
-echo "Hello World !!";
+echo “Hello GEEKS! <br>”;
 
-echo "first php";
+echo “You Have Successfully Executed PHP Script On Ubuntu Localhost”
 
 ?>
